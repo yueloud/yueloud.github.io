@@ -6,6 +6,9 @@ body {
     display: flex;
     justify-content: center;
 }
+body {
+    background-color: red;
+}
 
 .content-wrapper {
     width: 50%;
