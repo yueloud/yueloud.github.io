@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yuelou Ding (丁月楼)"
-description              : "Msc student by research in Department of Computer Science, Maynooth University, Ireland."
+description              : "Msc student by research in Department of Computer Science, Maynooth University."
 repository               : "yueloud.github.io"
 #google_scholar_stats_use_cdn : true
 
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : 
   #dblp             : "https://dblp.org/pid/75/6568-6.html"
-  orcid            : "https://orcid.org/my-orcid?orcid=0009-0009-9835-1485"
+  orcid            : "https://orcid.org/0009-0009-9835-1485"
   pinterest        :
   soundcloud       :
   #stackoverflow    : # http://stackoverflow.com/users/123456/username
