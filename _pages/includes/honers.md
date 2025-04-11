@@ -1,4 +1,4 @@
-# 🎖 Honors and Awards
+# 🏅 Honors and Awards
 - *2023.04* The third prize in ["Datang Cup" National College Students New Generation Information and Communication Technology Competition](https://dtcup.dtxiaotangren.com/HomePage) in Sichuan.  
 - *2022.10* The first prize in [China Undergraduate Mathematical Contest in Modeling](https://www.mcm.edu.cn/) in Sichuan.
 - *2022.06* The third prize in Mathematical Contest in Modeling in UESTC. 
